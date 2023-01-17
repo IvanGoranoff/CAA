@@ -1,0 +1,15 @@
+C:\Users\ivan.goranov\source\repos\LogicalFunctions\LogicalFunctions\obj\Debug\net6.0\LogicalFunctions.csproj.AssemblyReference.cache
+C:\Users\ivan.goranov\source\repos\LogicalFunctions\LogicalFunctions\obj\Debug\net6.0\LogicalFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan.goranov\source\repos\LogicalFunctions\LogicalFunctions\obj\Debug\net6.0\LogicalFunctions.AssemblyInfoInputs.cache
+C:\Users\ivan.goranov\source\repos\LogicalFunctions\LogicalFunctions\obj\Debug\net6.0\LogicalFunctions.AssemblyInfo.cs
+C:\Users\ivan.goranov\source\repos\LogicalFunctions\LogicalFunctions\obj\Debug\net6.0\LogicalFunctions.csproj.CoreCompileInputs.cache
+C:\Users\ivan.goranov\source\repos\LogicalFunctions\LogicalFunctions\bin\Debug\net6.0\LogicalFunctions.exe
+C:\Users\ivan.goranov\source\repos\LogicalFunctions\LogicalFunctions\bin\Debug\net6.0\LogicalFunctions.deps.json
+C:\Users\ivan.goranov\source\repos\LogicalFunctions\LogicalFunctions\bin\Debug\net6.0\LogicalFunctions.runtimeconfig.json
+C:\Users\ivan.goranov\source\repos\LogicalFunctions\LogicalFunctions\bin\Debug\net6.0\LogicalFunctions.dll
+C:\Users\ivan.goranov\source\repos\LogicalFunctions\LogicalFunctions\bin\Debug\net6.0\LogicalFunctions.pdb
+C:\Users\ivan.goranov\source\repos\LogicalFunctions\LogicalFunctions\obj\Debug\net6.0\LogicalFunctions.dll
+C:\Users\ivan.goranov\source\repos\LogicalFunctions\LogicalFunctions\obj\Debug\net6.0\refint\LogicalFunctions.dll
+C:\Users\ivan.goranov\source\repos\LogicalFunctions\LogicalFunctions\obj\Debug\net6.0\LogicalFunctions.pdb
+C:\Users\ivan.goranov\source\repos\LogicalFunctions\LogicalFunctions\obj\Debug\net6.0\LogicalFunctions.genruntimeconfig.cache
+C:\Users\ivan.goranov\source\repos\LogicalFunctions\LogicalFunctions\obj\Debug\net6.0\ref\LogicalFunctions.dll
